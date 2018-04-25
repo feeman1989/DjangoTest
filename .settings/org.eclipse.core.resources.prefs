@@ -1,3 +1,7 @@
 eclipse.preferences.version=1
+encoding//apps/courses/models.py=utf-8
 encoding//apps/message/models.py=utf-8
+encoding//apps/users/adminx.py=utf-8
+encoding//apps/users/apps.py=utf8
 encoding//apps/users/models.py=utf-8
+encoding//extra_apps/xadmin/plugins/themes.py=utf-8
